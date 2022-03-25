@@ -1,0 +1,6 @@
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/bin/Debug/Decorator.exe
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/bin/Debug/Decorator.pdb
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/obj/Debug/Decorator.csprojAssemblyReference.cache
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/obj/Debug/Decorator.csproj.CoreCompileInputs.cache
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/obj/Debug/Decorator.exe
+/Users/pauloraitz/RiderProjects/Decorator/Decorator/obj/Debug/Decorator.pdb
